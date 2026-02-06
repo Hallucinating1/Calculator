@@ -9,7 +9,7 @@ if action in "+"  : # addition
     c = a + b
     print (c);
 elif action in "-"  : # subtraction
-    c = a - b()
+    c = a - b
     print (c);
 elif action in ["×", "*"]  : # multiplication
     c = a * b
